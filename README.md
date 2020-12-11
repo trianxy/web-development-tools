@@ -3,7 +3,9 @@ An attempt to have all links, which will be used in the course of a usual month 
 
 - [caniuse.com](https://caniuse.com): Check which HTML/CSS/JavaScript works at which browser
 - [whatismybrowser.com](https://whatismybrowser.com): Check which browser and settings you have. Allows to share a link which stores all that data. Especially handy if a friend reports an error and you want to ask them which browser they used
+
 <br>
+
 - [draw.io](https://draw.io): Create diagrams, e.g. for user stories
 - [lucidchart.com (paid)](https://lucidchart.com): Create diagrams, e.g. for user stories
 
