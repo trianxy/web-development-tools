@@ -52,6 +52,8 @@ An attempt to have all links, which will be used in the course of a usual month 
 <br>
 
 - [loader.io](https://loader.io/): Load test web endpoint from browser
+- [analytics.google.com](https://analytics.google.com/analytics/web/): Website and app analytics
+- [hotjar.com](https://www.hotjar.com): Website analytics, including heatmaps and recordings
 
 
 # Other curated lists:
