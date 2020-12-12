@@ -31,8 +31,9 @@ An attempt to have all links, which will be used in the course of a usual month 
 - [burst.shopify.com](https://burst.shopify.com/): High-resolution photos
 - [pexels.com](https://www.pexels.com/): High-resolution photos
 - [pixabay.com](https://pixabay.com/): High-resolution photos
-- [unsplash.com/](https://unsplash.com/): High-resolution photos
-- [iconfinder.com/](http://iconfinder.com/): Free and paid icons
+- [unsplash.com](https://unsplash.com/): High-resolution photos
+- [iconfinder.com](http://iconfinder.com/): Free and paid icons
+- [picresize.com](https://picresize.com/): Resize images
 
 <br>
 
