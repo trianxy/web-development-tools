@@ -3,17 +3,17 @@ An attempt to have all links, which will be used in the course of a usual month 
 
 - [caniuse.com](https://caniuse.com): Check which HTML/CSS/JavaScript works at which browser
 - [whatismybrowser.com](https://whatismybrowser.com): Check which browser and settings you have. Allows to share a link which stores all that data. Especially handy if a friend reports an error and you want to ask them which browser they used
+- [webpagetest.org](https://webpagetest.com): Test your website speed from around the world
+- [developers.google.com/speed/pagespeed/insights](https://developers.google.com/speed/pagespeed/insights/): Test your website speed
+- [developers.google.com/web/tools/lighthouse](https://developers.google.com/web/tools/lighthouse): Test your website speed and other health metrics. Accessible via Google Chrome's developer tools (CMD+Shift+C on Mac)
+- [loader.io](https://loader.io/): Load test web endpoint from browser
+- [analytics.google.com](https://analytics.google.com/analytics/web/): Website and app analytics
+- [hotjar.com](https://www.hotjar.com): Website analytics, including heatmaps and recordings
 
 <br>
 
 - [draw.io](https://draw.io): Create diagrams, e.g. for user stories
 - [lucidchart.com (paid)](https://lucidchart.com): Create diagrams, e.g. for user stories
-
-<br>
-
-- [webpagetest.org](https://webpagetest.com): Test your website speed from around the world
-- [developers.google.com/speed/pagespeed/insights](https://developers.google.com/speed/pagespeed/insights/): Test your website speed
-- [developers.google.com/web/tools/lighthouse](https://developers.google.com/web/tools/lighthouse): Test your website speed and other health metrics. Accessible via Google Chrome's developer tools (CMD+Shift+C on Mac)
 
 <br>
 
@@ -24,9 +24,8 @@ An attempt to have all links, which will be used in the course of a usual month 
 
 - [mycolor.space](https://mycolor.space/): Great tool to find colors which match with one given color
 - [flatuicolors.com](https://flatuicolors.com/): Ready color combinations
-
-<br>
-
+- [freesound.org](https://freesound.org): Free sounds
+- [audiojungle.net](https://audiojungle.net): Paid sounds
 - [coverr.co](https://coverr.co/): Videos, some free, most paid
 - [burst.shopify.com](https://burst.shopify.com/): High-resolution photos
 - [pexels.com](https://www.pexels.com/): High-resolution photos
@@ -38,9 +37,6 @@ An attempt to have all links, which will be used in the course of a usual month 
 <br>
 
 - [cloudflare.com](https://cloudflare.com): Free DNS, CDN, DDOS protection
-
-<br>
-
 - [postman.com](https://www.postman.com/): Free Curl <-> code translations (need to register). Most other features paid
 - [regex101.com](https://regex101.com): Regex library and live tests
 - [trends.google.com](https://trends.google.com): Google Trends, also helpful for SEO keywords
@@ -50,12 +46,6 @@ An attempt to have all links, which will be used in the course of a usual month 
 
 - [gist.github.com](http://gist.github.com): Publicly share code snippets
 - [imgur.com](https://imgur.com): Publicly share images
-
-<br>
-
-- [loader.io](https://loader.io/): Load test web endpoint from browser
-- [analytics.google.com](https://analytics.google.com/analytics/web/): Website and app analytics
-- [hotjar.com](https://www.hotjar.com): Website analytics, including heatmaps and recordings
 
 
 # Other curated lists:
