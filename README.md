@@ -47,7 +47,6 @@ An attempt to have all links, which will be used in the course of a usual month 
 - [gist.github.com](http://gist.github.com): Publicly share code snippets
 - [imgur.com](https://imgur.com): Publicly share images
 
-# Cheatsheets
 
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
