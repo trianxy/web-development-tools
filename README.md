@@ -43,6 +43,8 @@ An attempt to have all links, which will be used in the course of a usual month 
 
 - [postman.com](https://www.postman.com/): Free Curl <-> code translations (need to register). Most other features paid
 - [regex101.com](https://regex101.com): Regex library and live tests
+- [trends.google.com](https://trends.google.com): Google Trends, also helpful for SEO keywords
+- [search.google.com/search-console/](https://search.google.com/search-console/): Google Search Console to reliably check who found website through Google
 
 <br>
 
