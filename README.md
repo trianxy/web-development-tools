@@ -1,5 +1,5 @@
 # List of tools for web development
-An attempt to have all links, which will be used in the course of a usual month at least once by a web developer (or front-end developer/full-stack developer/web designer), in one place. We will attempt to replace inferior tools by superior tools, instead of keeping them all.
+An attempt to have all links, which will be used in the course of a usual month at least once by a web developer (or front-end developer/full-stack developer/web designer), in one place. We will try to replace inferior tools by superior tools, instead of keeping them all.
 
 - [caniuse.com](https://caniuse.com): Check which HTML/CSS/JavaScript works at which browser
 - [whatismybrowser.com](https://whatismybrowser.com): Check which browser and settings you have. Allows to share a link which stores all that data. Especially handy if a friend reports an error and you want to ask them which browser they used
@@ -12,13 +12,27 @@ An attempt to have all links, which will be used in the course of a usual month 
 <br>
 
 - [webpagetest.org](https://webpagetest.com): Test your website speed from around the world
-- [developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/): Test your website speed
+- [developers.google.com/speed/pagespeed/insights](https://developers.google.com/speed/pagespeed/insights/): Test your website speed
 - [developers.google.com/web/tools/lighthouse](https://developers.google.com/web/tools/lighthouse): Test your website speed and other health metrics. Accessible via Google Chrome's developer tools (CMD+Shift+C on Mac)
 
 <br>
 
 - [getbootstrap.com](https://getbootstrap.com/): CSS and JavaScript library for consistent design of simple websites
-- [ianlunn.github.io/Hover/ (paid)](https://ianlunn.github.io/Hover/): CSS library for nice effects. Paid for commercial purposes
+- [ianlunn.github.io/Hover (paid)](https://ianlunn.github.io/Hover/): CSS library for nice effects. Paid for commercial purposes
+
+<br>
+
+- [mycolor.space](https://mycolor.space/): Great tool to find colors which match with one given color
+- [flatuicolors.com](https://flatuicolors.com/): Ready color combinations
+
+<br>
+
+- [coverr.co](https://coverr.co/): Videos, some free, most paid
+- [burst.shopify.com](https://burst.shopify.com/): High-resolution photos
+- [pexels.com](https://www.pexels.com/): High-resolution photos
+- [pixabay.com](https://pixabay.com/): High-resolution photos
+- [unsplash.com/](https://unsplash.com/): High-resolution photos
+- [iconfinder.com/](http://iconfinder.com/): Free and paid icons
 
 <br>
 
@@ -35,6 +49,9 @@ An attempt to have all links, which will be used in the course of a usual month 
 - [imgur.com](https://imgur.com): Publicly share images
 
 <br>
+
+- [loader.io](https://loader.io/): Load test web endpoint from browser
+
 
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
