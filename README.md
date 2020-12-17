@@ -48,12 +48,13 @@ An attempt to have all links, which will be used in the course of a usual month 
 - [imgur.com](https://imgur.com): Publicly share images
 
 
-# Other curated lists:
-- [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
-
 # Other helpful tools:
 - [combinepdf.com](https://combinepdf.com): Combine multiple pdfs, images, docs and other files into 1 pdf
 - [thesaurus.com](https://www.thesaurus.com/): Find synonyms or better words
 - [hemingwayapp.com](https://hemingwayapp.com): Improve texts
 - [grammarly.com](https://www.grammarly.com/): Improve texts (needs registration)
 - [wordtune.com](http://wordtune.com/): Improve texts (needs registration)
+- [thesaurus.com](https://www.thesaurus.com/): Improve variable naming using synonyms
+
+# Other curated lists:
+- [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
