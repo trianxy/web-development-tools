@@ -1,5 +1,5 @@
 # List of tools for web development
-An attempt to have all links, which will be used in the course of a usual month at least once by a web developer (or front-end developer/full-stack developer/web designer), in one place. We will try to replace inferior tools by superior tools, instead of keeping them all.
+An attempt to have all links in one place, which will be used in the course of a usual month at least once by a web developer (or front-end developer/full-stack developer/web designer). I will try, often unsuccessfully, to replace inferior tools by superior tools, instead of keeping them all.
 
 - [caniuse.com](https://caniuse.com): Check which HTML/CSS/JavaScript works at which browser
 - [whatismybrowser.com](https://whatismybrowser.com): Check which browser and settings you have. Allows to share a link which stores all that data. Especially handy if a friend reports an error and you want to ask them which browser they used
@@ -21,6 +21,9 @@ An attempt to have all links, which will be used in the course of a usual month 
 - [ianlunn.github.io/Hover (paid)](https://ianlunn.github.io/Hover/): CSS library for nice effects. Paid for commercial purposes
 
 <br>
+
+- [fonts.google.com](https://fonts.google.com/): Free Google fonts
+- [www.fonts.com](https://www.fonts.com/de): Paid fonts
 
 - [mycolor.space](https://mycolor.space/): Great tool to find colors which match with one given color
 - [flatuicolors.com](https://flatuicolors.com/): Ready color combinations
