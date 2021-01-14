@@ -18,6 +18,7 @@ An attempt to have all links in one place, which will be used in the course of a
 <br>
 
 - [getbootstrap.com](https://getbootstrap.com/): CSS and JavaScript library for consistent design of simple websites
+- [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload): Lazy load resources (images, videos, ...) at website
 - [ianlunn.github.io/Hover (paid)](https://ianlunn.github.io/Hover/): CSS library for nice effects. Paid for commercial purposes
 
 <br>
