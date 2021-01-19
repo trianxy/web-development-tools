@@ -19,7 +19,8 @@ An attempt to have all links in one place, which will be used in the course of a
 
 - [getbootstrap.com](https://getbootstrap.com/): CSS and JavaScript library for consistent design of simple websites
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload): Lazy load resources (images, videos, ...) at website
-- [ianlunn.github.io/Hover (paid)](https://ianlunn.github.io/Hover/): CSS library for nice effects. Paid for commercial purposes
+- [ianlunn.github.io/Hover (paid)](https://ianlunn.github.io/Hover/): CSS library for hover and other effects. Paid for commercial purposes
+- [animate.css](https://animate.style/#best-practices): Add animations to website elements via CSS or JavaScript
 
 <br>
 
