@@ -48,7 +48,6 @@ An attempt to have all links in one place, which will be used in the course of a
 
 - [cloudflare.com](https://cloudflare.com): Free DNS, CDN, DDOS protection
 - [postman.com](https://www.postman.com/): Free Curl <-> code translations (need to register). Most other features paid
-- [regex101.com](https://regex101.com): Regex library and live tests
 - [trends.google.com](https://trends.google.com): Google Trends, also helpful for SEO keywords
 - [search.google.com/search-console/](https://search.google.com/search-console/): Google Search Console to reliably check who found website through Google
 
@@ -65,6 +64,11 @@ An attempt to have all links in one place, which will be used in the course of a
 - [grammarly.com](https://www.grammarly.com/): Improve texts (needs registration)
 - [wordtune.com](http://wordtune.com/): Improve texts (needs registration)
 - [thesaurus.com](https://www.thesaurus.com/): Improve variable naming using synonyms
+
+# Run code online
+- [https://jsfiddle.net/](https://jsfiddle.net/): Run JavaScript/HTML/CSS in browser
+- [regex101.com](https://regex101.com): Regex library and live tests
+- [https://repl.it/languages/python3](https://repl.it/languages/python3): Run Python in browser
 
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
