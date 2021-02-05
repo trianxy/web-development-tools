@@ -77,4 +77,3 @@ An attempt to have all links in one place, which will be used in the course of a
 - Photo editing: Adobe Photoshop (paid), Gimp (free)
 - Vektor editing: Adobe Illustrator (paid), Inkscape (free)
 - Video editing: Mac Photos app (free)
-
