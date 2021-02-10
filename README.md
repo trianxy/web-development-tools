@@ -9,6 +9,7 @@ An attempt to have all links in one place, which will be used in the course of a
 - [loader.io](https://loader.io/): Load test web endpoint from browser
 - [analytics.google.com](https://analytics.google.com/analytics/web/): Website and app analytics
 - [hotjar.com](https://www.hotjar.com): Website analytics, including heatmaps and recordings
+- [fast.com](https://www.fast.com): How fast is my internet connection?
 
 <br>
 
