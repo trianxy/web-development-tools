@@ -42,6 +42,7 @@ An attempt to have all links in one place, which will be used in the course of a
 - [pexels.com](https://www.pexels.com/): High-resolution photos
 - [pixabay.com](https://pixabay.com/): High-resolution photos
 - [iconfinder.com](http://iconfinder.com/): Free and paid icons
+- [flaticon.com](https://www.flaticon.com/): Free icons
 - [picresize.com](https://picresize.com/): Resize images
 - [giphy.com](https://giphy.com): Free Gifs (can also be accessed with API)
 
