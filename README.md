@@ -65,6 +65,7 @@ An attempt to have all links in one place, which will be used in the course of a
 - [grammarly.com](https://www.grammarly.com/): Improve texts (needs registration)
 - [wordtune.com](http://wordtune.com/): Improve texts (needs registration)
 - [thesaurus.com](https://www.thesaurus.com/): Improve variable naming using synonyms
+- [wipo](https://www3.wipo.int/branddb/en/#): Search for trademarks (word mark, image mark)
 
 # Run code online
 - [https://jsfiddle.net/](https://jsfiddle.net/): Run JavaScript/HTML/CSS in browser
