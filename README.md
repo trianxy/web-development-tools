@@ -61,11 +61,10 @@ An attempt to have all links in one place, which will be used in the course of a
 
 # Other helpful tools:
 - [combinepdf.com](https://combinepdf.com): Combine multiple pdfs, images, docs and other files into 1 pdf
-- [thesaurus.com](https://www.thesaurus.com/): Find synonyms or better words
+- [thesaurus.com](https://www.thesaurus.com/): Find better words (e.g. synonyms for variables)
 - [hemingwayapp.com](https://hemingwayapp.com): Improve texts
 - [grammarly.com](https://www.grammarly.com/): Improve texts (needs registration)
 - [wordtune.com](http://wordtune.com/): Improve texts (needs registration)
-- [thesaurus.com](https://www.thesaurus.com/): Improve variable naming using synonyms
 - [wipo](https://www3.wipo.int/branddb/en/#): Search for trademarks (word mark, image mark)
 - [Namecheap](https://www.namecheap.com/): Good website to search and buy free domains
 - [Domize](https://www.domize.com/): Quick website for free domain search, though with occasional errors
