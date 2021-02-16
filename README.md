@@ -45,6 +45,7 @@ An attempt to have all links in one place, which will be used in the course of a
 - [flaticon.com](https://www.flaticon.com/): Free icons
 - [picresize.com](https://picresize.com/): Resize images
 - [giphy.com](https://giphy.com): Free Gifs (can also be accessed with API)
+- [svgrepo.com](https://www.svgrepo.com/collection/tiny-ui-arrow-icons/2): Free svg icons
 
 <br>
 
