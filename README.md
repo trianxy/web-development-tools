@@ -70,6 +70,8 @@ An attempt to have all links in one place, which will be used in the course of a
 - [wipo](https://www3.wipo.int/branddb/en/#): Search for trademarks (word mark, image mark)
 - [Namecheap](https://www.namecheap.com/): Good website to search and buy free domains
 - [Domize](https://www.domize.com/): Quick website for free domain search, though with occasional errors
+- [SwiftScan](https://apps.apple.com/us/app/swiftscan-document-scanner/id834854351): Photo to pdf for iPhone
+- [Adobe Scan](https://apps.apple.com/us/app/adobe-scan-mobile-pdf-scanner/id1199564834): Photo to pdf for iPhone (with registration)
 
 # Run code online
 - [https://jsfiddle.net/](https://jsfiddle.net/): Run JavaScript/HTML/CSS in browser
