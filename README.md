@@ -74,9 +74,9 @@ An attempt to have all links in one place, which will be used in the course of a
 - [Adobe Scan](https://apps.apple.com/us/app/adobe-scan-mobile-pdf-scanner/id1199564834): Photo to pdf for iPhone (with registration)
 
 # Run code online
-- [https://jsfiddle.net/](https://jsfiddle.net/): Run JavaScript/HTML/CSS in browser
+- [JSfiddle.net](https://jsfiddle.net/): Run JavaScript/HTML/CSS in browser
 - [regex101.com](https://regex101.com): Regex library and live tests
-- [https://repl.it/languages/python3](https://repl.it/languages/python3): Run Python in browser
+- [Python](https://repl.it/languages/python3): Run Python in browser
 
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
