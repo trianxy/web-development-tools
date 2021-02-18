@@ -6,6 +6,7 @@ An attempt to have all links in one place, which will be used in the course of a
 - [webpagetest.org](https://webpagetest.com): Test your website speed from around the world
 - [developers.google.com/speed/pagespeed/insights](https://developers.google.com/speed/pagespeed/insights/): Test your website speed
 - [developers.google.com/web/tools/lighthouse](https://developers.google.com/web/tools/lighthouse): Test your website speed and other health metrics. Accessible via Google Chrome's developer tools (CMD+Shift+C on Mac)
+- [bytecheck.com](https://www.bytecheck.com/): Check time to first byte (speed)
 - [loader.io](https://loader.io/): Load test web endpoint from browser
 - [analytics.google.com](https://analytics.google.com/analytics/web/): Website and app analytics
 - [hotjar.com](https://www.hotjar.com): Website analytics, including heatmaps and recordings
