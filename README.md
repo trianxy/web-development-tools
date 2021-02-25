@@ -84,6 +84,10 @@ An attempt to have all links in one place, which will be used in the course of a
 - [leandomainsearch.com](https://leandomainsearch.com/search/): Terrific tool to find domain names with additional words
 - [impossibility.org](http://impossibility.org/): Similar to lean domain search, find domain names with additional words
 
+# Other stuff
+- [Fullstack course University Helsinki](https://fullstackopen.com/en/): includes React, TypeScript
+- [Basics in JavaScript](https://javascript.info): Free tutorial
+
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
 
@@ -91,3 +95,5 @@ An attempt to have all links in one place, which will be used in the course of a
 - Photo editing: Adobe Photoshop (paid), Gimp (free)
 - Vektor editing: Adobe Illustrator (paid), Inkscape (free)
 - Video editing: Mac Photos app (free)
+
+
