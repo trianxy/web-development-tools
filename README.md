@@ -90,6 +90,7 @@ An attempt to have all links in one place, which will be used in the course of a
 
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
+- [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto): Great resources for IT leads, from code to management
 
 # Photo/video editing
 - Photo editing: Adobe Photoshop (paid), Gimp (free)
