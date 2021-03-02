@@ -87,6 +87,7 @@ An attempt to have all links in one place, which will be used in the course of a
 # Other stuff
 - [Fullstack course University Helsinki](https://fullstackopen.com/en/): includes React, TypeScript
 - [Basics in JavaScript](https://javascript.info): Free tutorial
+- [smallpdf.com](https://smallpdf.com/): Reduce pdf size (possibly removes unvisible data)
 
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
