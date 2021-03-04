@@ -38,12 +38,13 @@ An attempt to have all links in one place, which will be used in the course of a
 
 <br>
 
-- [unsplash.com](https://unsplash.com/): High-resolution photos (100% free)
-- [burst.shopify.com](https://burst.shopify.com/): High-resolution photos
+- [unsplash.com](https://unsplash.com/): High-resolution photos (100% free) / images
+- [burst.shopify.com](https://burst.shopify.com/): High-resolution photos / images
 - [pexels.com](https://www.pexels.com/): High-resolution photos
 - [pixabay.com](https://pixabay.com/): High-resolution photos
 - [iconfinder.com](http://iconfinder.com/): Free and paid icons
 - [flaticon.com](https://www.flaticon.com/): Free icons
+- [Google icons](https://fonts.google.com/icons): Free icons
 - [picresize.com](https://picresize.com/): Resize images
 - [giphy.com](https://giphy.com): Free Gifs (can also be accessed with API)
 - [svgrepo.com](https://www.svgrepo.com/collection/tiny-ui-arrow-icons/2): Free svg icons
