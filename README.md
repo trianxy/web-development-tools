@@ -70,7 +70,7 @@ An attempt to have all links in one place, which will be used in the course of a
 - [grammarly.com](https://www.grammarly.com/): Improve texts (needs registration)
 - [wordtune.com](http://wordtune.com/): Improve texts (needs registration)
 - [wipo](https://www3.wipo.int/branddb/en/#): Search for trademarks (word mark, image mark)
-- [Namecheap](https://www.namecheap.com/): Good website to search and buy free domains
+- [Namecheap](https://www.namecheap.com/): Good website to search and buy free domains. Perhaps best website to buy domains as they offer free email and website redirections.!
 - [Domize](https://www.domize.com/): Quick website for free domain search, though with occasional errors
 - [SwiftScan](https://apps.apple.com/us/app/swiftscan-document-scanner/id834854351): Photo to pdf for iPhone
 - [Adobe Scan](https://apps.apple.com/us/app/adobe-scan-mobile-pdf-scanner/id1199564834): Photo to pdf for iPhone (with registration)
