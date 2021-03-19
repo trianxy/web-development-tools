@@ -32,6 +32,7 @@ An attempt to have all links in one place, which will be used in the course of a
 
 - [mycolor.space](https://mycolor.space/): Great tool to find colors which match with one given color
 - [flatuicolors.com](https://flatuicolors.com/): Ready color combinations
+- [https://maketintsandshades.com/#2F68A4](https://maketintsandshades.com/#2F68A4): Get color shades, helpful to create 10 shades out of a main color
 - [freesound.org](https://freesound.org): Free sounds
 - [audiojungle.net](https://audiojungle.net): Paid sounds
 - [coverr.co](https://coverr.co/): Videos, some free, most paid
