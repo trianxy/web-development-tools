@@ -1,4 +1,5 @@
-# List of tools for web development
+# List of tools for web development and other software worker stuff
+
 An attempt to have all links in one place, which will be used in the course of a usual month at least once by a web developer (or front-end developer/full-stack developer/web designer). I will try, often unsuccessfully, to replace inferior tools by superior tools, instead of keeping them all.
 
 - [caniuse.com](https://caniuse.com): Check which HTML/CSS/JavaScript works at which browser
@@ -91,6 +92,7 @@ An attempt to have all links in one place, which will be used in the course of a
 - [Fullstack course University Helsinki](https://fullstackopen.com/en/): includes React, TypeScript
 - [Basics in JavaScript](https://javascript.info): Free tutorial
 - [smallpdf.com](https://smallpdf.com/): Reduce pdf size (possibly removes unvisible data)
+- [https://github.com/docker/awesome-compose](https://github.com/docker/awesome-compose): Ready docker-compose and Dockerfiles for different services (e.g. Flask, Django, React)
 
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
