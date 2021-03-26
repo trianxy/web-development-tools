@@ -94,6 +94,7 @@ An attempt to have all links in one place, which will be used in the course of a
 - [smallpdf.com](https://smallpdf.com/): Reduce pdf size (possibly removes unvisible data)
 - [https://github.com/docker/awesome-compose](https://github.com/docker/awesome-compose): Ready docker-compose and Dockerfiles for different services (e.g. Flask, Django, React)
 - [https://hackr.io/](https://hackr.io/): List of voted/reviewed tutorials for programming languages
+- [https://www.tutorialspoint.com/python3/python_reg_expressions.htm](https://www.tutorialspoint.com/python3/python_reg_expressions.htm): Nice and simple, short Python documentation on Regex (regular expressions)
 
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
