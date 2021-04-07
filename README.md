@@ -105,4 +105,8 @@ An attempt to have all links in one place, which will be used in the course of a
 - Vektor editing: Adobe Illustrator (paid), Inkscape (free)
 - Video editing: Mac Photos app (free)
 
+# Examples of state-of-the-art frontends
+- [pitch.com](pitch.com): B2B, B2C
+- [stripe.com](stripe.com): B2B
+- [google.com](google.com): B2C
 
