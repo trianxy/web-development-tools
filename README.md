@@ -20,7 +20,7 @@ An attempt to have all links in one place, which will be used in the course of a
 
 <br>
 
-- [getbootstrap.com](https://getbootstrap.com/): CSS and JavaScript library for consistent design of simple websites
+- [getbootstrap.com](https://getbootstrap.com/): CSS and JavaScript library for consistent design of simple websites; whenever you do a website from scratch, use this
 - [vanilla-lazyload](https://github.com/verlok/vanilla-lazyload): Lazy load resources (images, videos, ...) at website
 - [ianlunn.github.io/Hover (paid)](https://ianlunn.github.io/Hover/): CSS library for hover and other effects. Paid for commercial purposes
 - [animate.css](https://animate.style/#best-practices): Add animations to website elements via CSS or JavaScript
