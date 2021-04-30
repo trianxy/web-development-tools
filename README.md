@@ -102,6 +102,7 @@ An attempt to have all links in one place, which will be used in the course of a
 # Other curated lists:
 - [github.com/mojpm/frontend-development](https://github.com/mojpm/frontend-development)
 - [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto): Great resources for IT leads, from code to management
+- [https://temp-mail.org/en/](https://temp-mail.org/en/): Throw away (temporary) email address
 
 # Photo/video editing
 - Photo editing: Adobe Photoshop (paid), Gimp (free)
