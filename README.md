@@ -52,6 +52,7 @@ An attempt to have all links in one place, which will be used in the course of a
 - [picresize.com](https://picresize.com/): Resize images
 - [giphy.com](https://giphy.com): Free Gifs (can also be accessed with API)
 - [svgrepo.com](https://www.svgrepo.com/collection/tiny-ui-arrow-icons/2): Free svg icons
+- [FontAwesome](https://fontawesome.com/icons/bars?style=solid): Free icons; can download or serve through them
 
 <br>
 
