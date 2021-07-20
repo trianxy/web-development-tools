@@ -116,3 +116,6 @@ An attempt to have all links in one place, which will be used in the course of a
 - [stripe.com](stripe.com): B2B
 - [google.com](google.com): B2C
 
+# Data Science
+- [https://matplotlib.org/stable/gallery/index.html](https://matplotlib.org/stable/gallery/index.html): Ready code for graphs/diagrams in Python
+
